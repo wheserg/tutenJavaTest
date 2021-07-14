@@ -8,4 +8,4 @@ para correr el proyecto es necesario tener instalado Maven
 https://maven.apache.org/download.cgi
 
 una vez instalado en la terminal, en el directorio del proyecto ejecutamos
-mvnw spring-boot:run
+"mvn spring-boot:run"
